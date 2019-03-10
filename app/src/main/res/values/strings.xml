@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MultidiomaNinePatchApp</string>
+    <string name="app_name">App multidioma</string>
+    <string name="texto_boton">Entrar</string>
+    <string name="titulo_mensaje">Bienvenido</string>
 </resources>
